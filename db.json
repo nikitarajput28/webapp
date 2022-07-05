@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nikita",
+      "email": "nikita@gmail.com",
+      "body": 1822291
+    },
+    {
+      "id": 2,
+      "name": "Nick",
+      "email": "nick@gmail.com",
+      "body": 362792
+    },
+    {
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "body": "hey guys",
+      "id": 3
+    },
+    {
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "body": "hey guys",
+      "id": 4
+    },
+    {
+      "id": 7,
+      "name": "Nick",
+      "email": "nick@gmail.com",
+      "body": 362792
+    }
+  ]
+}
